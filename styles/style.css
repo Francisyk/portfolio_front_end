@@ -138,3 +138,9 @@ padding: 2% 0% 0% 15%;
     }
 
 }
+
+@media (max-width: 440px) {
+    .cabecalho__menu {
+        gap: 40px;
+    }
+}
