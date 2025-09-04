@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+w@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 :root {
     --cor-primaria: #0F0E0E;
@@ -20,12 +20,6 @@ body {
 
 .cabecalho {
 padding: 2% 0% 0% 15%;
-}
-
-@media (max-width: 440px) {
-    .cabecalho__menu {
-        gap: 40px;
-    }
 }
 
 .cabecalho__menu {
@@ -144,3 +138,4 @@ padding: 2% 0% 0% 15%;
         gap: 40px;
     }
 }
+
