@@ -130,7 +130,6 @@ padding: 2% 0% 0% 15%;
     .apresentacao__conteudo {
         width: auto;
     }
-
 }
 
 @media (max-width: 440px) {
@@ -138,5 +137,8 @@ padding: 2% 0% 0% 15%;
         gap: 40px;
     }
 }
+    }
+}
+
 
 
